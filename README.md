@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me: developer.amir.hossein79@gmail.com
-- 😄 Pronouns: his/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Learning everything
 
 <!---
